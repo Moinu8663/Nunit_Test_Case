@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nunit_test_for_user")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2215af9c2de5b0eceafab04a904c4e70a570c218")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nunit_test_for_user")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nunit_test_for_user")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

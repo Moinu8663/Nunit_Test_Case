@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nunit_test_for_user
-build_property.ProjectDir = D:\Moinuddin\User_for_ NUnit_Test\Nunit_test_for_user\
+build_property.ProjectDir = D:\Moinuddin\Nunit_Test_Case\Nunit_test_for_user\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Moinuddin\\User_for_ NUnit_Test\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj": {}
+    "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj": {}
   },
   "projects": {
-    "D:\\Moinuddin\\User_for_ NUnit_Test\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj": {
+    "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Moinuddin\\User_for_ NUnit_Test\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj",
+        "projectUniqueName": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj",
         "projectName": "User_for_ NUnit_Test",
-        "projectPath": "D:\\Moinuddin\\User_for_ NUnit_Test\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj",
+        "projectPath": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj",
         "packagesPath": "C:\\Users\\moinuddinali\\.nuget\\packages\\",
-        "outputPath": "D:\\Moinuddin\\User_for_ NUnit_Test\\User_for_ NUnit_Test\\obj\\",
+        "outputPath": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moinuddinali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,7 +46,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.7.14.3, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.4, )"
             },

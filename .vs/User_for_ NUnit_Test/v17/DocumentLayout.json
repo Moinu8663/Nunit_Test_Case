@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Moinuddin\\Nunit_Test_Case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC39681-A6CC-4C39-976B-0421D52D1ED2}|User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj|d:\\moinuddin\\nunit_test_case\\user_for_ nunit_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CC39681-A6CC-4C39-976B-0421D52D1ED2}|User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj|solutionrelative:user_for_ nunit_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC39681-A6CC-4C39-976B-0421D52D1ED2}|User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj|d:\\moinuddin\\nunit_test_case\\user_for_ nunit_test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CC39681-A6CC-4C39-976B-0421D52D1ED2}|User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj|solutionrelative:user_for_ nunit_test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC39681-A6CC-4C39-976B-0421D52D1ED2}|User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj|d:\\moinuddin\\nunit_test_case\\user_for_ nunit_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC39681-A6CC-4C39-976B-0421D52D1ED2}|User_for_ NUnit_Test\\User_for_ NUnit_Test.csproj|solutionrelative:user_for_ nunit_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Migrations\\20240506072741_fist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User_for_ NUnit_Test\\Migrations\\20240506072741_fist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "User_for_ NUnit_Test\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Properties\\launchSettings.json",
+              "RelativeToolTip": "User_for_ NUnit_Test\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T07:29:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240506072741_fist.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Migrations\\20240506072741_fist.cs",
+              "RelativeDocumentMoniker": "User_for_ NUnit_Test\\Migrations\\20240506072741_fist.cs",
+              "ToolTip": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Migrations\\20240506072741_fist.cs",
+              "RelativeToolTip": "User_for_ NUnit_Test\\Migrations\\20240506072741_fist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:27:41.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\appsettings.json",
+              "RelativeDocumentMoniker": "User_for_ NUnit_Test\\appsettings.json",
+              "ToolTip": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\appsettings.json",
+              "RelativeToolTip": "User_for_ NUnit_Test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T07:27:00.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Program.cs",
+              "RelativeDocumentMoniker": "User_for_ NUnit_Test\\Program.cs",
+              "ToolTip": "D:\\Moinuddin\\Nunit_Test_Case\\User_for_ NUnit_Test\\Program.cs",
+              "RelativeToolTip": "User_for_ NUnit_Test\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAMwDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:26:06.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
